@@ -179,6 +179,4 @@ const mods = {
         }
     }
 
-    alert("This is a MODDED client. Press Shift+L to load mods. (url, script, or default mods on homepage)");
-    setTimeout(onFinishLoad, 100);
 })();
