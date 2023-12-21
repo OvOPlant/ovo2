@@ -1,16 +1,16 @@
 const mods = {
-  "ai": "ai.js",
-  "chaos": "chaos.js",
-  "explorer": "explorer.js",
-  "flymod": "flymod.js",
-  "hurricane": "hurricane.js",
-  "levelselector": "levelselector.js",
-  "modapi": "modapi.js",
-  "multiplayer": "multiplayer.js",
-  "oldflymod": "oldflymod.js",
-  "randomlevel": "randomlevel.js",
-  "savestate": "savestate.js",
-  "tas": "tas.js"
+  "ai": "/ai.js",
+  "chaos": "/chaos.js",
+  "explorer": "/explorer.js",
+  "flymod": "/flymod.js",
+  "hurricane": "/hurricane.js",
+  "levelselector": "/levelselector.js",
+  "modapi": "/modapi.js",
+  "multiplayer": "/multiplayer.js",
+  "oldflymod": "/oldflymod.js",
+  "randomlevel": "/randomlevel.js",
+  "savestate": "/savestate.js",
+  "tas": "/tas.js"
 };
 
 (function() {
