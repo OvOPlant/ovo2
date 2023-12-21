@@ -179,4 +179,5 @@ const mods = {
         }
     }
 
+  setTimeout(onFinishLoad, 100);
 })();
