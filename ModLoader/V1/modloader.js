@@ -1,16 +1,16 @@
 const mods = {
-  "ai": "/ai.js",
-  "chaos": "/chaos.js",
-  "explorer": "/explorer.js",
-  "flymod": "/flymod.js",
-  "hurricane": "/hurricane.js",
-  "levelselector": "/levelselector.js",
-  "modapi": "/modapi.js",
-  "multiplayer": "/multiplayer.js",
-  "oldflymod": "/oldflymod.js",
-  "randomlevel": "/randomlevel.js",
-  "savestate": "/savestate.js",
-  "tas": "/tas.js"
+  "ai": "ai.js",
+  "chaos": "chaos.js",
+  "explorer": "explorer.js",
+  "flymod": "flymod.js",
+  "hurricane": "hurricane.js",
+  "levelselector": "levelselector.js",
+  "modapi": "modapi.js",
+  "multiplayer": "multiplayer.js",
+  "oldflymod": "oldflymod.js",
+  "randomlevel": "randomlevel.js",
+  "savestate": "savestate.js",
+  "tas": "tas.js"
 };
 
 (function() {
@@ -178,7 +178,6 @@ const mods = {
             return loadModJS(js);
         }
     }
-    alert("This is a MODDED client. Press Shift+L to load mods. (url, script, or default mods on homepage)");
     setTimeout(onFinishLoad, 100);
 
 })();
