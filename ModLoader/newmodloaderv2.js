@@ -1,6 +1,6 @@
 (function () {
-    const modDirectory = "/ModLoader/";
-    const version = "V2";
+    const modDirectory = "/mods/";
+    const version = "v2";
 
     class ModLoader {
         constructor(runtime) {
