@@ -26,5 +26,12 @@
         "description": "Allows you to reset using R.",
         "advanced": false,
         "url": "resetbutton.js" 
+    },
+    "behaviors": {
+        "name": "Behaviors",
+        "author": "OvOPlant",
+        "description": "Change the behaviors of the game.",
+        "advanced": false,
+        "url": "behaviors.js"
     }
 }
