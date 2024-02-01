@@ -44,6 +44,13 @@
                 cursor: pointer;
             }
 
+            .ovo-modloader-button img {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
+
             .ovo-modloader-button:hover {
                 background-color: rgba(200, 200, 200, 1);
             }
